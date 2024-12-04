@@ -17,4 +17,5 @@ namespace WinFormsApp1
             this.valore = valore;
         }
     }
+
 }

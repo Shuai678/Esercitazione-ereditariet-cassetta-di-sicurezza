@@ -25,9 +25,25 @@ namespace WinFormsApp1
             this.codiceSegreto = codiceSegreto;
             this.vuoto = vuoto;
         }
+
+        public string CodiceUnivoco
+        {
+            get { return codiceUnivoco; }
+        }
+        public string Produttore
+        {
+            get { return produttore; }
+        }
+
+        public string CodiceSegreto
+        {
+            get { return codiceSegreto; }
+        }
+
         public void Aggiungi(OggettoSegreto oggetto)
         {
             oggettiContenuti.Add(oggetto);
+            vuoto = false;
         }
 
         public void Rimuovi(OggettoSegreto oggetto)
@@ -45,6 +61,16 @@ namespace WinFormsApp1
             codiceSegreto = codiceNuovo;
         }
 
+        public void SetVuoto()
+        {
+            vuoto = true;
+        }
+
+
+
+
+
+        
 
     }
 }

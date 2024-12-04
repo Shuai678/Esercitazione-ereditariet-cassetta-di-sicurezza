@@ -1,21 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ziyis\\OneDrive\\Desktop\\Esercitazione-ereditariet-cassetta-di-sicurezza\\WinFormsApp1\\",
+  "WorkspaceRootPath": "C:\\Users\\shuai.21032\\Desktop\\Esercitazione-ereditariet-cassetta-di-sicurezza\\WinFormsApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{036A4659-695E-46EE-B54E-86DF942643E2}|WinFormsApp1.csproj|c:\\users\\ziyis\\onedrive\\desktop\\esercitazione-ereditariet-cassetta-di-sicurezza\\winformsapp1\\cassettadisicurezza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{036A4659-695E-46EE-B54E-86DF942643E2}|WinFormsApp1.csproj|c:\\users\\shuai.21032\\desktop\\esercitazione-ereditariet-cassetta-di-sicurezza\\winformsapp1\\gioielli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{036A4659-695E-46EE-B54E-86DF942643E2}|WinFormsApp1.csproj|solutionrelative:gioielli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{036A4659-695E-46EE-B54E-86DF942643E2}|WinFormsApp1.csproj|c:\\users\\shuai.21032\\desktop\\esercitazione-ereditariet-cassetta-di-sicurezza\\winformsapp1\\chiavi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{036A4659-695E-46EE-B54E-86DF942643E2}|WinFormsApp1.csproj|solutionrelative:chiavi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{036A4659-695E-46EE-B54E-86DF942643E2}|WinFormsApp1.csproj|c:\\users\\shuai.21032\\desktop\\esercitazione-ereditariet-cassetta-di-sicurezza\\winformsapp1\\documenti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{036A4659-695E-46EE-B54E-86DF942643E2}|WinFormsApp1.csproj|solutionrelative:documenti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{036A4659-695E-46EE-B54E-86DF942643E2}|WinFormsApp1.csproj|c:\\users\\shuai.21032\\desktop\\esercitazione-ereditariet-cassetta-di-sicurezza\\winformsapp1\\cassettadisicurezza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{036A4659-695E-46EE-B54E-86DF942643E2}|WinFormsApp1.csproj|solutionrelative:cassettadisicurezza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{036A4659-695E-46EE-B54E-86DF942643E2}|WinFormsApp1.csproj|c:\\users\\ziyis\\onedrive\\desktop\\esercitazione-ereditariet-cassetta-di-sicurezza\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{036A4659-695E-46EE-B54E-86DF942643E2}|WinFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{036A4659-695E-46EE-B54E-86DF942643E2}|WinFormsApp1.csproj|c:\\users\\ziyis\\onedrive\\desktop\\esercitazione-ereditariet-cassetta-di-sicurezza\\winformsapp1\\oggettosegreto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{036A4659-695E-46EE-B54E-86DF942643E2}|WinFormsApp1.csproj|c:\\users\\shuai.21032\\desktop\\esercitazione-ereditariet-cassetta-di-sicurezza\\winformsapp1\\oggettosegreto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{036A4659-695E-46EE-B54E-86DF942643E2}|WinFormsApp1.csproj|solutionrelative:oggettosegreto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{036A4659-695E-46EE-B54E-86DF942643E2}|WinFormsApp1.csproj|c:\\users\\ziyis\\onedrive\\desktop\\esercitazione-ereditariet-cassetta-di-sicurezza\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{036A4659-695E-46EE-B54E-86DF942643E2}|WinFormsApp1.csproj|c:\\users\\shuai.21032\\desktop\\esercitazione-ereditariet-cassetta-di-sicurezza\\winformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{036A4659-695E-46EE-B54E-86DF942643E2}|WinFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{036A4659-695E-46EE-B54E-86DF942643E2}|WinFormsApp1.csproj|C:\\Users\\shuai.21032\\Desktop\\Esercitazione-ereditariet-cassetta-di-sicurezza\\WinFormsApp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{036A4659-695E-46EE-B54E-86DF942643E2}|WinFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -26,41 +38,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Chiavi.cs",
+              "DocumentMoniker": "C:\\Users\\shuai.21032\\Desktop\\Esercitazione-ereditariet-cassetta-di-sicurezza\\WinFormsApp1\\Chiavi.cs",
+              "RelativeDocumentMoniker": "Chiavi.cs",
+              "ToolTip": "C:\\Users\\shuai.21032\\Desktop\\Esercitazione-ereditariet-cassetta-di-sicurezza\\WinFormsApp1\\Chiavi.cs",
+              "RelativeToolTip": "Chiavi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T12:47:49.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Documenti.cs",
+              "DocumentMoniker": "C:\\Users\\shuai.21032\\Desktop\\Esercitazione-ereditariet-cassetta-di-sicurezza\\WinFormsApp1\\Documenti.cs",
+              "RelativeDocumentMoniker": "Documenti.cs",
+              "ToolTip": "C:\\Users\\shuai.21032\\Desktop\\Esercitazione-ereditariet-cassetta-di-sicurezza\\WinFormsApp1\\Documenti.cs",
+              "RelativeToolTip": "Documenti.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T12:46:54.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Gioielli.cs",
+              "DocumentMoniker": "C:\\Users\\shuai.21032\\Desktop\\Esercitazione-ereditariet-cassetta-di-sicurezza\\WinFormsApp1\\Gioielli.cs",
+              "RelativeDocumentMoniker": "Gioielli.cs",
+              "ToolTip": "C:\\Users\\shuai.21032\\Desktop\\Esercitazione-ereditariet-cassetta-di-sicurezza\\WinFormsApp1\\Gioielli.cs",
+              "RelativeToolTip": "Gioielli.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T12:31:34.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "OggettoSegreto.cs",
-              "DocumentMoniker": "C:\\Users\\ziyis\\OneDrive\\Desktop\\Esercitazione-ereditariet-cassetta-di-sicurezza\\WinFormsApp1\\OggettoSegreto.cs",
+              "DocumentMoniker": "C:\\Users\\shuai.21032\\Desktop\\Esercitazione-ereditariet-cassetta-di-sicurezza\\WinFormsApp1\\OggettoSegreto.cs",
               "RelativeDocumentMoniker": "OggettoSegreto.cs",
-              "ToolTip": "C:\\Users\\ziyis\\OneDrive\\Desktop\\Esercitazione-ereditariet-cassetta-di-sicurezza\\WinFormsApp1\\OggettoSegreto.cs",
+              "ToolTip": "C:\\Users\\shuai.21032\\Desktop\\Esercitazione-ereditariet-cassetta-di-sicurezza\\WinFormsApp1\\OggettoSegreto.cs",
               "RelativeToolTip": "OggettoSegreto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-03T11:36:01.698Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "CassettaDiSicurezza.cs",
-              "DocumentMoniker": "C:\\Users\\ziyis\\OneDrive\\Desktop\\Esercitazione-ereditariet-cassetta-di-sicurezza\\WinFormsApp1\\CassettaDiSicurezza.cs",
+              "DocumentMoniker": "C:\\Users\\shuai.21032\\Desktop\\Esercitazione-ereditariet-cassetta-di-sicurezza\\WinFormsApp1\\CassettaDiSicurezza.cs",
               "RelativeDocumentMoniker": "CassettaDiSicurezza.cs",
-              "ToolTip": "C:\\Users\\ziyis\\OneDrive\\Desktop\\Esercitazione-ereditariet-cassetta-di-sicurezza\\WinFormsApp1\\CassettaDiSicurezza.cs",
+              "ToolTip": "C:\\Users\\shuai.21032\\Desktop\\Esercitazione-ereditariet-cassetta-di-sicurezza\\WinFormsApp1\\CassettaDiSicurezza.cs",
               "RelativeToolTip": "CassettaDiSicurezza.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAQwC8AAAAAAAAA",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-03T11:33:35.608Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\ziyis\\OneDrive\\Desktop\\Esercitazione-ereditariet-cassetta-di-sicurezza\\WinFormsApp1\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\shuai.21032\\Desktop\\Esercitazione-ereditariet-cassetta-di-sicurezza\\WinFormsApp1\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\ziyis\\OneDrive\\Desktop\\Esercitazione-ereditariet-cassetta-di-sicurezza\\WinFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\shuai.21032\\Desktop\\Esercitazione-ereditariet-cassetta-di-sicurezza\\WinFormsApp1\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -69,15 +124,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Form1.cs [Progettazione]",
-              "DocumentMoniker": "C:\\Users\\ziyis\\OneDrive\\Desktop\\Esercitazione-ereditariet-cassetta-di-sicurezza\\WinFormsApp1\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\shuai.21032\\Desktop\\Esercitazione-ereditariet-cassetta-di-sicurezza\\WinFormsApp1\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\ziyis\\OneDrive\\Desktop\\Esercitazione-ereditariet-cassetta-di-sicurezza\\WinFormsApp1\\Form1.cs [Progettazione]",
-              "RelativeToolTip": "Form1.cs [Progettazione]",
+              "RelativeToolTip": "..\\..\\..\\..\\ziyis\\OneDrive\\Desktop\\Esercitazione-ereditariet-cassetta-di-sicurezza\\WinFormsApp1\\Form1.cs [Progettazione]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T11:32:49.536Z",
-              "EditorCaption": " [Progettazione]"
+              "WhenOpened": "2024-12-03T11:32:49.536Z"
             }
           ]
         }
