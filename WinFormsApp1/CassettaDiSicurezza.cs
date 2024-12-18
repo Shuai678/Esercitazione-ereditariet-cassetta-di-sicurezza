@@ -66,11 +66,21 @@ namespace WinFormsApp1
             vuoto = true;
         }
 
+        public virtual double getValoreAssicurato(OggettoSegreto oggetto)
+        {
+            return oggetto.ValoreAssicurato;
+        }
+
+        public string getTipologia(OggettoSegreto oggetto)
+        {
+            return oggetto.GetType().ToString();
+        }
 
 
 
 
-        
+
+
 
     }
 }

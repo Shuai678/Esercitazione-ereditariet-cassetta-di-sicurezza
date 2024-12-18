@@ -10,7 +10,7 @@ namespace WinFormsApp1
     {
         private string tipo;
 
-        public Documenti(string identificatore, string valore, string tipo) : base(identificatore, valore) // Chiama il costruttore di OggettoSegreto
+        public Documenti(string identificatore, double valore, string tipo) : base(identificatore, valore) // Chiama il costruttore di OggettoSegreto
         {
             this.tipo = tipo;
         }
@@ -19,6 +19,14 @@ namespace WinFormsApp1
         {
             get { return tipo; }
             set { tipo = value; }
+        }
+
+        public double CalcolaValoreAssicurato()
+        {
+            if (Valore >= 100)
+                return Valore;
+            else
+                return 50;
         }
     }
 }

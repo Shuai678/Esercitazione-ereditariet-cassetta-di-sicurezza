@@ -10,7 +10,7 @@ namespace WinFormsApp1
     {
         private string tipo;
 
-        public Chiavi(string identificatore, string valore, string tipo) : base(identificatore, valore) // Chiama il costruttore di OggettoSegreto
+        public Chiavi(string identificatore, double valore, string tipo) : base(identificatore, valore)
         {
             this.tipo = tipo;
         }
@@ -19,6 +19,11 @@ namespace WinFormsApp1
         {
             get { return tipo; }
             set { tipo = value; }
+        }
+
+        public double CalcolaValoreAssicurato()
+        {
+            return Valore * 1000;
         }
     }
 }
