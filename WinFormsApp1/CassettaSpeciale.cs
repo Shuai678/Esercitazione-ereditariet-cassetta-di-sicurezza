@@ -8,7 +8,7 @@ namespace WinFormsApp1
 {
     internal class CassettaSpeciale : CassettaDiSicurezza
     {
-        public CassettaSpeciale(string codiceUnivoco, string produttore, string codiceSegreto, bool vuoto) : base(codiceUnivoco, produttore, codiceSegreto, vuoto)
+        public CassettaSpeciale(string codiceUnivoco, string produttore, string codiceSegreto,string codiceSblocco, bool vuoto) : base(codiceUnivoco, produttore, codiceSegreto, codiceSblocco, vuoto)
         {
 
         }

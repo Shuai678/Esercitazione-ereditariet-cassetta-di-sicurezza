@@ -10,7 +10,7 @@ namespace WinFormsApp1
     {
         private string tipo;
 
-        public Gioielli(string identificatore, double valore, string tipo) : base(identificatore, valore) // Chiama il costruttore di OggettoSegreto
+        public Gioielli(string identificatore, double valore, string tipo) : base(identificatore, valore) 
         {
             this.tipo = tipo;
         }

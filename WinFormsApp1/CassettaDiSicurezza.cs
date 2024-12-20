@@ -12,17 +12,20 @@ namespace WinFormsApp1
         private string codiceUnivoco;
         private string produttore;
         private string codiceSegreto;
+        private string codiceSblocco;
         private bool vuoto;
+
 
         public List<OggettoSegreto> OggettiContenuti
         {
             get { return oggettiContenuti; }
         }
-        public CassettaDiSicurezza (string codiceUnivoco, string produttore, string codiceSegreto, bool vuoto)
+        public CassettaDiSicurezza (string codiceUnivoco, string produttore, string codiceSegreto, string codiceSblocco, bool vuoto)
         {
             this.codiceUnivoco = codiceUnivoco;
             this.produttore = produttore;
             this.codiceSegreto = codiceSegreto;
+            this.codiceSblocco = codiceSblocco;
             this.vuoto = vuoto;
         }
 
@@ -35,10 +38,6 @@ namespace WinFormsApp1
             get { return produttore; }
         }
 
-        public string CodiceSegreto
-        {
-            get { return codiceSegreto; }
-        }
 
         public void Aggiungi(OggettoSegreto oggetto)
         {
